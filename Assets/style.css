@@ -16,7 +16,13 @@ figcaption {
     text-align: center;
 }
 
-h1 {
+.aboutMe {
     font-family: 'Lobster', cursive;
-    font-size: 90px;
+    font-size: 300px;
+}
+
+.snapshots {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
 }
