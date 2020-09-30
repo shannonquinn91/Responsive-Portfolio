@@ -1,6 +1,12 @@
+.container {
+    margin: auto;
+}
+
 .myPic {
-    width: 75%;
+    width: 100%;
+    height: auto;
 }
 .portfolio {
-    max-width: 75%;
+    width: 100%;
+    height: auto;
 }
