@@ -10,3 +10,13 @@
     width: 100%;
     height: auto;
 }
+
+figcaption {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+}
