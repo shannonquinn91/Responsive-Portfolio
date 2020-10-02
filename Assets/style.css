@@ -34,3 +34,9 @@ figcaption {
     font-size: 50px;
     text-align: center;
 }
+
+.contactMe {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: darkslategray;
+}
