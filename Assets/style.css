@@ -1,27 +1,32 @@
+/* Background color of all pages */
 body {
     background-color: lightgray;
 }
 
+/* Gives margins to grids on each page */
 .container {
     margin: auto;
 }
 
+/* Size and alignment for picture on About Me page */
 .myPic {
     width: 50%;
     height: auto;
     float: left;
     padding-right: 10px;
 }
+/* Sizes each photo on Portfolio page */
 .portfolio {
     width: 100%;
     height: auto;
 }
-
+/* Aligns caption center under each photo on Portfolio page */
 figcaption {
     margin: auto;
     text-align: center;
 }
 
+/* Font, sizing and color for heading on About Me page */
 .aboutMe {
     font-family: 'Lobster', cursive;
     font-size: 100px;
@@ -29,6 +34,7 @@ figcaption {
     margin: auto;
 }
 
+/* Font, sizing and color for heading on Portfolio page */
 .snapshots {
     font-family: 'Lobster', cursive;
     font-size: 50px;
@@ -38,6 +44,7 @@ figcaption {
     padding-left: 20px;
 }
 
+/* Font, sizing and color for heading on Contact Me page */
 .contactMe {
     font-family: 'Lobster', cursive;
     font-size: 50px;
