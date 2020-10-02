@@ -10,6 +10,6 @@ Lastly, I added a sticky footer to each page.
 I made an effort to do several commits through this project. 
 
 Screenshots:
-<link href="assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_index.html.png">
-<link href="assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_contact.html.png">
-<link href="assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_portfolio.html.png">
+![About Me Page](assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_index.html.png)
+![Contact Me Page](assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_contact.html.png)
+![Portfolo Page](assets/_Users_shannonquinn_Desktop_Responsive-Portfolio_portfolio.html.png)
