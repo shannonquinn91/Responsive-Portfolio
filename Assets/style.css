@@ -32,11 +32,15 @@ figcaption {
 .snapshots {
     font-family: 'Lobster', cursive;
     font-size: 50px;
+    color: darkslategray;
+    margin: auto;
     text-align: center;
+    padding-left: 20px;
 }
 
 .contactMe {
     font-family: 'Lobster', cursive;
     font-size: 50px;
     color: darkslategray;
+    margin: auto;
 }
