@@ -7,8 +7,10 @@ body {
 }
 
 .myPic {
-    width: 100%;
+    width: 50%;
     height: auto;
+    float: left;
+    padding-right: 10px;
 }
 .portfolio {
     width: 100%;
@@ -22,7 +24,9 @@ figcaption {
 
 .aboutMe {
     font-family: 'Lobster', cursive;
-    font-size: 300px;
+    font-size: 100px;
+    color: darkslategray;
+    margin: auto;
 }
 
 .snapshots {
